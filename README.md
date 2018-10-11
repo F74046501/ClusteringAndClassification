@@ -1,4 +1,5 @@
-# ClusteringAndClassification with a funny dataset
+# Clustering and Classification with a funny dataset
+This project use the penis data of the whole man in the world and the penis data related to the place the man come from.
 
 ## Language used
 Python3
